@@ -1,0 +1,5 @@
+Data Cleaning Steps
+1. Removed blank rows
+2. Checked for duplicate records
+3. Converted date fields to correct format
+4. Created calculated measures for Profit and Sales
